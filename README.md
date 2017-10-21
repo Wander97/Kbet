@@ -1,2 +1,2 @@
 # Kbet
-La historia de cómo un robot vive su día día, trabajando en el interior del ojo.
+3D animation of the story of how a robot lives its day day, working inside the eye.
