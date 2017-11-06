@@ -12,6 +12,8 @@ Features
 
 Contact
 -------
+* Twitter: [https://twitter.com/Krode2018](https://twitter.com/Krode2018)
+* Patreon: [https://www.patreon.com/Krode](https://www.patreon.com/Krode)
 
 license
 -------
