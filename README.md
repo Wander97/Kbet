@@ -1,5 +1,5 @@
 # Kbet
-3D animation of the story of how a robot lives its day day, working inside the eye.
+3D animation of the story of how a robot works inside the eye, day by day.
 
 Features
 --------
