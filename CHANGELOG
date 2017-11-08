@@ -1,0 +1,44 @@
+Changelog
+---------
+
+Current Release: Kbet PRE-PRODUCTION PROJECT (November 2017)
+-----------------------------------------------------------
+
+
+Release:	Kbet PRE-PRODUCTION PROJECT (November 2017)
+-------------------------------------------------------------
+
+NOTE:
+	
+  In this release, in accord with the PRE-PRODUCTION PROJECT we have done all the concepts, the script and the technical script, the storyboard and the animatic. 
+As well as the wiki of the project.
+
+MAIN CHANGES:
+
+	- The final script of the story
+	- Added every plane and camera position following the technical script
+	- All the concepts of the characters and environments
+	- The storyboard
+	- The animatic with the timing and the sounds
+
+detailed changes: 
+
+ADDED: ArtSources folder
+ADDED: KBET folder inside ArtSources folder, which includes the final concept in .psd of the main character of the story
+ADDED: PupilRobot folder inside ArtSources folder, which contains the final concept in .psd of the secondary character
+ADDED: Revisor folder inside ArtSources folder, which has the final concept in .psd of the revisor character
+ADDED: Sketches folder inside ArtSources folder, which includes the first sketches in .psd of the main, the revisor and the secondary robot 
+ADDED: Environment folder inside ArtSources folder, which includes the environment concepts in .psd
+ADDED: Storyboard folder inside ArtSources, which contains all the scenes of the story in .psd
+ADDED: ConceptArt folder
+ADDED: KBET folder inside ConceptArt folder, which includes in .png the final concept of KBET in line, shadows and color
+ADDED: PupilRobot folder inside ConceptArt folder, which includes in .png the final concepts of the PupilRobot in line, shadows and color
+ADDED: Revisor folder inside ConceptArt folder, which includes in .png the final concepts of the RevisorRobot in line, shadows and color
+ADDED: Sketches folder inside ConceptArt folder, which includes in .png the first sketches of the main, the revisor and the secondary robot
+ADDED: Environment folder inside ConceptArt folder, which includes the environment concepts in .png
+ADDED: Moodboard folder, contains a .png of the references that had been used for our projects
+ADDED: References folder, contains .png of current animation movies in which we have keep our eyes on to get the idea of our own story
+ADDED: Storyboard folder, which includes every scene of the story in .png 
+ADDED: Audio folder, which includes all the sounds used in the animatic
+ADDED: Animatic folder, includes in .mp4 the animatic as well as the images in .png from the storyboard and the sounds
+ADDED: WikiResources, contains all the resources used in the wiki of the project
