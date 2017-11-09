@@ -31,9 +31,9 @@ ADDED: Sketches folder inside ArtSources folder, which includes the first sketch
 ADDED: Environment folder inside ArtSources folder, which includes the environment concepts in .psd
 ADDED: Storyboard folder inside ArtSources, which contains all the scenes of the story in .psd
 ADDED: ConceptArt folder
-ADDED: KBET folder inside ConceptArt folder, which includes in .png the final concept of KBET in line, shadows and color
-ADDED: PupilRobot folder inside ConceptArt folder, which includes in .png the final concepts of the PupilRobot in line, shadows and color
-ADDED: Revisor folder inside ConceptArt folder, which includes in .png the final concepts of the RevisorRobot in line, shadows and color
+ADDED: KBET folder inside ConceptArt folder, which includes in .png the final concept of KBET in shadows and color
+ADDED: PupilRobot folder inside ConceptArt folder, which includes in .png the final concepts of the PupilRobot in shadows and color
+ADDED: Revisor folder inside ConceptArt folder, which includes in .png the final concepts of the RevisorRobot in shadows and color
 ADDED: Sketches folder inside ConceptArt folder, which includes in .png the first sketches of the main, the revisor and the secondary robot
 ADDED: Environment folder inside ConceptArt folder, which includes the environment concepts in .png
 ADDED: Moodboard folder, contains a .png of the references that had been used for our projects
