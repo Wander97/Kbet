@@ -1,5 +1,5 @@
 # Kbet
-<img align="left" src="https://github.com/janixva/Kbet/blob/master/WikiResources/BannerKrode.png" width=256>
+<img " src="https://github.com/janixva/Kbet/blob/master/WikiResources/BannerKrode.png">
 3D animation of the story of how a robot works inside the eye, day by day.
 
 Features
