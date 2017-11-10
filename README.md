@@ -1,3 +1,4 @@
+<img align="left" src="https://github.com/raysan5/raylib/blob/master/WikiResources/BannerKrode.png" width=256>
 # Kbet
 3D animation of the story of how a robot works inside the eye, day by day.
 
