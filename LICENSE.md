@@ -30,4 +30,4 @@ No warranties are given. The license may not give you all of the permissions nec
 for your intended use. For example, other rights such as publicity, privacy, or moral 
 rights may limit how you use the material.
 
-[More Information](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
+[All the information](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
