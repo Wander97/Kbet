@@ -15,6 +15,7 @@ Contact
 -------
 * Twitter: [https://twitter.com/Krode2018](https://twitter.com/Krode2018)
 * Patreon: [https://www.patreon.com/Krode](https://www.patreon.com/Krode)
+* Video Presentation: [https://youtu.be/sOuEY5QajcY](Video)
 
 License
 -------
